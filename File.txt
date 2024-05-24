@@ -1,2 +1,7 @@
 Scenario 1: Book The ticket From Chennai To Bangalore
 scenario 2: cancel
+
+
+
+Scenario 5: Train Depart from Bangalore
+Scenario 6: Train Has been cancelled due to Rain
