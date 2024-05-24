@@ -2,5 +2,12 @@ Scenario 1: Book The ticket From Chennai To Bangalore
 scenario 2: cancel
 
 
+//BY Siva 
 Scenario 3 : Book the Hotel
 scenario 4: canelled
+
+
+// By Me
+Scenario 5: Train Depart from Bangalore
+Scenario 6: Train Has been cancelled due to Rain
+>>>>>>> TrainMMT
