@@ -11,3 +11,6 @@ scenario 4: canelled
 Scenario 5: Train Depart from Bangalore
 Scenario 6: Train Has been cancelled due to Rain
 >>>>>>> TrainMMT
+
+Scenario 7: Book the Bus
+Scenario 8 : Book From Chennai
