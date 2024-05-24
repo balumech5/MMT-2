@@ -1,2 +1,6 @@
 Scenario 1: Book The ticket From Chennai To Bangalore
 scenario 2: cancel
+
+
+Scenario 3 : Book the Hotel
+scenario 4: canelled
